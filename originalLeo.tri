@@ -1,0 +1,14 @@
+let
+ var i: Integer;
+ var j: Integer;
+ var k: Integer;
+ var d: Integer;
+ var num: Integer
+in
+ i:= 4;
+ j:= 2;
+ loop for d :=1 to 8 do
+ k:= 12;
+ num:= num -1
+ end
+end 

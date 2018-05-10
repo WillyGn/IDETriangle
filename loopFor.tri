@@ -1,0 +1,13 @@
+let
+ var j:= 3;
+ var i: Integer
+in
+ i:=3;
+ j:=3;
+ if j=3 then putint(2)
+ elsif i = 1 then putint(4)
+ elsif i = 3 then putint(7)
+ elsif j = 3 then putint(8)
+ else j:=0
+ end;
+end
